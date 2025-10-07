@@ -1,0 +1,8 @@
+{
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "name": "Nexora AI 1.5 fusion",
+  "description": "مساعدك الذكي الشخصي، جاهز يساعدك في أي وقت."
+}

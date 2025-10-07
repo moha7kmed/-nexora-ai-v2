@@ -1,0 +1,20 @@
+[
+  {
+    "name": "محمد خلاف",
+    "email": "mohamed@nexora.dev",
+    "bio": "مطور Nexora الرئيسي. أحب بناء أشياء رائعة.",
+    "avatar": "https://api.dicebear.com/8.x/bottts-neutral/svg?seed=mohamed"
+  },
+  {
+    "name": "أحمد علي",
+    "email": "ahmed@example.com",
+    "bio": "مهندس برمجيات ومحب للقهوة.",
+    "avatar": "https://api.dicebear.com/8.x/bottts-neutral/svg?seed=ahmed"
+  },
+  {
+    "name": "فاطمة الزهراء",
+    "email": "fatima@example.com",
+    "bio": "مصممة واجهات مستخدم وشغوفة بالفن الرقمي.",
+    "avatar": "https://api.dicebear.com/8.x/bottts-neutral/svg?seed=fatima"
+  }
+]
